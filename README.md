@@ -1,4 +1,4 @@
-#Hi 👋 , I'm Fatma Mama
+<h1>Hi 👋 , I'm Fatma Mama</h1>
 <img align="right" alt="GIF" src="https://github.com/FatmaMama/FatmaMama/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## a passionate web developper from Tunisia
