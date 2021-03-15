@@ -1,7 +1,7 @@
-### Hi 👋 , I'm Fatma Mama
+<h1>Hi 👋 , I'm Fatma Mama</h1>
 <img align="right" alt="GIF" src="https://github.com/FatmaMama/FatmaMama/blob/main/code.gif?raw=true" width="500" height="320" />
 
-## a passionate web developper from Tunisia
+## A Passionate Web Developper from Tunisia
 
 - 🔭 I’m currently looking for work opportunities
 - 🌱 I’m currently learning more about react hooks
@@ -28,5 +28,20 @@
 <img width="40" height="40" alt="postgresql" src="./icons/postgresql.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb.svg"/>
 
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Fatma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FatmaMama&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Fatma's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaMama" />
+
+</details>
 
 [linkedin]: https://www.linkedin.com/in/fatma-mama-9397b5129/
