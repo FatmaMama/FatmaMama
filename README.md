@@ -38,11 +38,11 @@
 
 
 
-<details>
+
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Fatma's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaMama" />
 
-</details>
+
 
 [linkedin]: https://www.linkedin.com/in/fatma-mama-9397b5129/
