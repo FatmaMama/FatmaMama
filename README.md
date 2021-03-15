@@ -17,6 +17,7 @@
 ### Languages and Tools:
 <p align="left">
 <img width="40" height="40" alt="javascript" src="./icons/javascript.svg"/>
+<img width="40" height="40" alt="typescript" src="./icons/typescript.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5.svg"/>
 <img width="40" height="40" alt="CSS3" src="./icons/css3.svg"/>
 <img width="40" height="40" alt="git" src="./icons/git.svg"/>
