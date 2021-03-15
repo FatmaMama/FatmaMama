@@ -1,7 +1,7 @@
 <h1>Hi 👋 , I'm Fatma Mama</h1>
 <img align="right" alt="GIF" src="https://github.com/FatmaMama/FatmaMama/blob/main/code.gif?raw=true" width="500" height="320" />
 
-## a passionate web developper from Tunisia
+## A Passionate Web Developper from Tunisia
 
 - 🔭 I’m currently looking for work opportunities
 - 🌱 I’m currently learning more about react hooks
