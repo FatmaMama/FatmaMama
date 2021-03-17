@@ -4,7 +4,7 @@
 ## A Passionate Web Developper from Tunisia
 <!-- - ✍ You can find my projects here [portfolio] -->
 - 🔭 I’m currently looking for work opportunities
-- 🌱 I’m currently learning more about react hooks
+- 🌱 I’m currently learning Gatsby.js
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: fatma_mama@hotmail.fr
 - ⚡ Fun fact: I look much younger than my real age
