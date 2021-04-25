@@ -2,9 +2,9 @@
 <img align="right" alt="GIF" src="https://github.com/FatmaMama/FatmaMama/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## A Passionate Web Developper from Tunisia
-<!-- - ✍ You can find my projects here [portfolio] -->
+- ✍ You can find my projects here [portfolio] 
 - 🔭 I’m currently looking for work opportunities
-- 🌱 I’m currently learning Gatsby.js
+<!-- - 🌱 I’m currently learning Gatsby.js -->
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: fatma_mama@hotmail.fr
 - ⚡ Fun fact: I look much younger than my real age
@@ -41,8 +41,8 @@
 
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Fatma's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaMama" />
+<!--<img align="left" alt="Fatma's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaMama" />-->
 
 
-<!-- [portfolio]: -->
+[portfolio]: http://fatmamama.github.io/
 [linkedin]: https://www.linkedin.com/in/fatma-mama-9397b5129/
